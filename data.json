@@ -33,7 +33,7 @@
       "name": "แมงจีนูน",
       "price": 999,
       "emoji": "🦖",
-      "available": false,
+      "available": true,
       "tags": ["เบเกอรี่"]
     }
   ]
