@@ -1,6 +1,6 @@
 {
   "shopName": "ร้านกาแฟ999",
-  "owner": "ชื่อนักศึกษา",
+  "owner": "SuvannapoomSona",
   "studentId": "6XXXXXXXXX",
   "ownerPhone": "081-234-5678",
   "products": [
@@ -34,7 +34,7 @@
       "price": 999,
       "emoji": "🦖",
       "available": true,
-      "tags": ["เบเกอรี่"]
+      "tags": ["เบเกอรี่", "ขายดี"]
     },
     {
       "id": 5,
