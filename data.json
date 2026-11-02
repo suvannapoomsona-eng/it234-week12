@@ -1,5 +1,5 @@
 {
-  "shopName": "ร้านกาแฟของฉัน",
+  "shopName": "ร้านกาแฟ999",
   "owner": "ชื่อนักศึกษา",
   "studentId": "6XXXXXXXXX",
   "ownerPhone": "081-234-5678",
@@ -16,7 +16,7 @@
       "id": 2,
       "name": "ชาไทย",
       "price": 45,
-      "emoji": "🧋",
+      "emoji": "🍹",
       "available": true,
       "tags": ["ชา", "เย็น", "ขายดี"]
     },
@@ -25,6 +25,14 @@
       "name": "ครัวซองต์",
       "price": 60,
       "emoji": "🥐",
+      "available": false,
+      "tags": ["เบเกอรี่"]
+    },
+    {
+      "id": 4,
+      "name": "c,'แมงจีนูน",
+      "price": 999,
+      "emoji": "🦖˃ ᵕ ˂ ~♡｡°",
       "available": false,
       "tags": ["เบเกอรี่"]
     }
