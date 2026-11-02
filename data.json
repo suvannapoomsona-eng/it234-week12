@@ -35,6 +35,14 @@
       "emoji": "🦖",
       "available": true,
       "tags": ["เบเกอรี่"]
+    },
+    {
+      "id": 5,
+      "name": "ไก่ยาง",
+      "price": 150,
+      "emoji": "🍗",
+      "available": true,
+      "tags": ["เบเกอรี่"]
     }
   ]
 }
